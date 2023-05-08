@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Felipe</h1>
 <h3 align="center">Un apasionado por el desarrollo de aplicaciónes chileno</h3>
 
-- 🌱 Actualmente estoy aprendiendo **React y NestJS**
+- 🌱 Actualmente estoy aprendiendo **React**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/falmonacid15](https://github.com/falmonacid15)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/falmonacid15?tab=repositories](https://github.com/falmonacid15?tab=repositories)
 
 - 📫 Como llegar a mi **felipe.almonacidgallardo@gmail.com**
 
